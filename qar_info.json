@@ -1,0 +1,7 @@
+{
+	"common_dir" : "/home/nick/Quartus/InformA_Mic_I2S/",
+	"acds_version" : "Version 18.0.0",
+	"platform" : "linux",
+	"os" : "Arch Linux",
+	"qpf" : "ADC_SoC_HIGH_SPEED_ADC_HPS.qpf"
+}

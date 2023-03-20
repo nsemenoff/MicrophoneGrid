@@ -1,0 +1,17 @@
+Partition Merge Status : Successful - Sun Oct  9 20:48:26 2022
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Lite Edition
+Revision Name : ADC_SoC_HIGH_SPEED_ADC_HPS
+Top-level Entity Name : ADC_SoC_HIGH_SPEED_ADC_HPS
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 4324
+Total pins : 215
+Total virtual pins : 0
+Total block memory bits : 811,008
+Total DSP Blocks : 0
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 1
+Total DLLs : 1
